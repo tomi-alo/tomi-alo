@@ -2,7 +2,7 @@
 
 **Aspiring Backend Engineer** based in Calgary, Alberta, Canada.
 
-I build what’s under the hood—APIs, databases, and core infrastructure. Right now, I'm focused on building scalable backend systems with **Java**, **Spring Boot**, **Docker**, and **AWS**.
+I build what’s under the hood: APIs, databases, and core infrastructure. Right now, I'm focused on building scalable backend systems with **Java**, **Spring Boot**, **Docker**, and **AWS**.
 
 🔎 **Status:** Open to backend software engineering internship & co-op opportunities.
 
