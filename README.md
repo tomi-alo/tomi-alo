@@ -1,40 +1,48 @@
-Hey, I'm Tomi 👋
+# Hey, I'm Tomi 👋
 
-Aspiring backend engineer based in Calgary, Alberta 🇨🇦
+**Backend Engineer** based in Calgary, Alberta, Canada.
 
-I like building the part of an app you don't see: the APIs, databases, and infrastructure that make everything work. Right now I'm learning by building real projects with Java, Spring Boot, Docker, and AWS.
+I build what’s under the hood—APIs, databases, and core infrastructure. Right now, I'm focused on building scalable backend systems with **Java**, **Spring Boot**, **Docker**, and **AWS**.
 
-🔎 I'm looking for internship positions where I can learn from a team and contribute to real backend work.
+🔎 **Status:** Open to backend software engineering internship & co-op opportunities.
 
-🎓 Background
-📚 Starting the Software Development diploma at SAIT (September 2026)
-🏅 Meta Full Stack Developer Certificate
-🛠️ Tech I Work With
+---
 
-Languages: Java, Python, JavaScript 
-Frontend: Next.js, HTML, CSS, React 
-Backend and Data: Spring Boot, PostgreSQL 
-Tools and Cloud: Docker, Git/GitHub, AWS
+## 🎓 Background
+* **Education:** Software Development Diploma @ **SAIT**
+* **Certifications:** Meta Full Stack Developer Certificate @ **Meta (Coursera)**
 
-🚀 Featured Projects
-📒 LEJA: Trading Journal
+---
 
-A full-stack trading ledger that records, validates, and analyzes trades, with a focus on execution stats like win rate, PnL, and setup performance. Built for multiple users, each tracking their own trades.
+## 🛠 Tech Stack
 
-Stack: Java, Spring Boot, PostgreSQL, React
-Next up: CI/CD pipeline and AWS deployment
-Status: 🔨 In active development
-🔗 View repo
-🏀 Basketball Shot Tracker
+* **Languages:** Java, Python, JavaScript, SQL
+* **Backend & Data:** Spring Boot, PostgreSQL, REST APIs
+* **Cloud & DevOps:** Docker, AWS, Git/GitHub
+* **Frontend Basics:** React, Next.js, HTML/CSS
 
-A cloud microservice project built around something I care about: basketball. Designed with the pieces of a real production service: a database, a cache, logging, alarms, and an API gateway.
+---
 
-Stack: Cloud-hosted (AWS, GCP, or Azure), containerized with Docker
-Status: 🧭 Planning and early build
-🔗 View repo
+## 🚀 Featured Projects
 
-📫 Let's Connect
+### 📈 LEJA - Personal Trading Journal
+A multi-user trading ledger that records, validates, and analyzes executions (PnL, win rate, setup performance).
+* **Tech Stack:** Java, Spring Boot, PostgreSQL, React
+* **Status:** In active development
+* **Next Up:** CI/CD pipeline & deployment
+* [View Repository](https://github.com/tomi-alo/leja) 
 
-LinkedIn
+---
 
-Always happy to chat.
+## 🎯 In Development / Next Up
+
+### 🏀 Basketball Shot Tracker
+A cloud-hosted backend project to track and analyze shooting sessions, designed with an API Gateway, caching, structured logging, alarms, and a database.
+* **Status:** 🧭 Architecture & system design phase
+
+---
+
+## 📫 Let's Connect
+
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/oluwatomi-alo)
+* 💬 Always open to discussing backend engineering, systems design, or basketball!
