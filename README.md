@@ -1,48 +1,24 @@
-# Hey, I'm Tomi 👋
+# About Me:
 
-**Aspiring Backend Engineer** based in Calgary, Alberta, Canada.
+👋 Hi, I'm **Oluwatomi Alo**  
+👀 I'm an **Aspiring Backend Engineer** based in Calgary, AB, Canada.  
+🎓 **Education:** Software Development Diploma @ **SAIT**  
+🔎 **Status:** Open to backend software engineering internship & co-op opportunities!
 
-I build what’s under the hood: APIs, databases, and core infrastructure. Right now, I'm focused on building scalable backend systems with **Java**, **Spring Boot**, **Docker**, and **AWS**.
+## 🌐 Socials:
 
-🔎 **Status:** Open to backend software engineering internship & co-op opportunities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatomi-alo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oluwatomialooa@gmail.com)
 
----
+## 💻 Tech Stack:
 
-## 🎓 Background
-* **Education:** Software Development Diploma @ **SAIT**
-* **Certifications:** Meta Full Stack Developer Certificate @ **Meta (Coursera)**
-
----
-
-## 🛠 Tech Stack
-
-* **Languages:** Java, Python, JavaScript, SQL
-* **Backend & Data:** Spring Boot, PostgreSQL, REST APIs
-* **Cloud & DevOps:** Docker, AWS, Git/GitHub
-* **Frontend Basics:** React, Next.js, HTML/CSS
-
----
-
-## 🚀 Featured Projects
-
-### 📈 LEJA - Personal Trading Journal
-A multi-user trading ledger that records, validates, and analyzes executions (PnL, win rate, setup performance).
-* **Tech Stack:** Java, Spring Boot, PostgreSQL, React
-* **Status:** In active development
-* **Next Up:** CI/CD pipeline & deployment
-* [View Repository](https://github.com/tomi-alo/leja) 
-
----
-
-## 🎯 In Development / Next Up
-
-### 🏀 Basketball Shot Tracker
-A cloud-hosted backend project to track and analyze shooting sessions, designed with an API Gateway, caching, structured logging, alarms, and a database.
-* **Status:** 🧭 Architecture & system design phase
-
----
-
-## 📫 Let's Connect
-
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/oluwatomi-alo)
-* 💬 Always open to discussing backend engineering, systems design, or basketball!
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black)
