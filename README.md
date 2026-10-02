@@ -19,7 +19,6 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=docker&logoColor=white)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black)
