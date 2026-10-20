@@ -1,7 +1,7 @@
 # About Me:
 
 👋 Hi, I'm **Oluwatomi Alo**  
-👀 I'm an **Aspiring Backend Engineer** based in Calgary, AB, Canada.  
+👀 I'm an **Aspiring Backend Software Engineer** based in Calgary, AB, Canada.  
 🎓 **Education:** Software Development Diploma @ **SAIT**  
 🔎 **Status:** Open to backend and fullstack software engineering internship & co-op opportunities!
 
