@@ -1,6 +1,6 @@
 ### Hi, I'm Tomi 👋
 
-Software Development student at SAIT in Calgary, focused on backend engineering and cloud infrastructure.
+Software Development student at SAIT in Calgary, focused on backend engineering and cloud infrastructure.  
 Open to backend and full-stack internship & co-op opportunities.
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat&logo=openjdk&logoColor=white)
