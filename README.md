@@ -12,6 +12,3 @@ Open to backend and full-stack internship & co-op opportunities.
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatomi-alo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oluwatomialooa@gmail.com)
